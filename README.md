@@ -40,6 +40,10 @@
 </div>
 
 ---
+## 📄 My Resume
+
+- 📥 [View My CV](https://drive.google.com/file/d/1r28HUywsqIinFmuPSjaopazubiGUiS03/view?usp=sharing)
+---
 
 ## 📫 Connect Me
 
@@ -52,6 +56,7 @@
 - 🏅 [Data Scientist Bootcamp – AKAADEMY](https://drive.google.com/file/d/1VRHoA8ngFtCNsrSoGJlH1QNl-BUp8HOD/view?usp=sharing)
 
 ---
+
 ## 🧩 Fun Fact
 
 > "I think I am a data nerd and it's a new oil. So, I'm here to refine it."

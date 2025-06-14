@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Sanjida Akther
 
-🎯 A **Data Enthusiast** passionate about extracting meaningful insights and building intelligent systems. 
+🎯 A ***Data Enthusiast*** passionate about extracting meaningful insights and building intelligent systems. 
 
 💻 Skilled in **Data Science, Machine Learning, and Artificial Intelligence.**
 
